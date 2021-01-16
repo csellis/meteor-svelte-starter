@@ -37,6 +37,7 @@ force-ssl-common@1.1.0
 fourseven:scss@4.12.0
 geojson-utils@1.0.10
 ground:db@2.0.0
+hexsprite:postcss@2.1.0
 hot-code-push@1.0.4
 html-tools@1.0.11
 htmljs@1.0.11
@@ -49,6 +50,7 @@ logging@1.1.20
 meteor@1.9.3
 meteor-base@1.4.0
 meteorhacks:picker@1.0.3
+minifier-css@1.5.3
 minifier-js@2.6.0
 minimongo@1.6.1
 modern-browsers@0.1.5
